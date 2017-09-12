@@ -1,0 +1,6 @@
+﻿  BTreeTraverseMain.c
+  BTreeTraverse.c
+c:\users\윤진\documents\visual studio 2015\projects\binarytreetraverse\binarytreetraverse\btreetraverse.c(34): warning C4020: 'action': 실제 매개 변수가 너무 많습니다.
+  코드를 생성하고 있습니다...
+  BinaryTreeTraverse.vcxproj -> c:\users\윤진\documents\visual studio 2015\Projects\BinaryTreeTraverse\Debug\BinaryTreeTraverse.exe
+  BinaryTreeTraverse.vcxproj -> c:\users\윤진\documents\visual studio 2015\Projects\BinaryTreeTraverse\Debug\BinaryTreeTraverse.pdb (Partial PDB)
