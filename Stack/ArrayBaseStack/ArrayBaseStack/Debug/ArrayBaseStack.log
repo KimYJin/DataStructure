@@ -1,0 +1,6 @@
+﻿  ArrayBaseStackMain.c
+c:\users\윤진\documents\visual studio 2015\projects\arraybasestack\arraybasestack\arraybasestackmain.c(16): warning C4013: 'SIsEmpty'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  ArrayBaseStack.c
+  코드를 생성하고 있습니다...
+  ArrayBaseStack.vcxproj -> c:\users\윤진\documents\visual studio 2015\Projects\ArrayBaseStack\Debug\ArrayBaseStack.exe
+  ArrayBaseStack.vcxproj -> c:\users\윤진\documents\visual studio 2015\Projects\ArrayBaseStack\Debug\ArrayBaseStack.pdb (Partial PDB)
